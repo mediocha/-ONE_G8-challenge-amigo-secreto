@@ -17,3 +17,9 @@ Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 #### Sorteio aleatório: 
 Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
+### Resultado do Desafio:
+<img src="/assets/resultado_aplicacao.png" alt="Imagem do Projeto">
+
+#### Principais Desafios Encontrados e como foram resolvidos
+
+Acredito que a maior dificuldade encontrada neste desafio foi desenvolver uma forma de limpar o campo de "input" após a entrada da informação pelo usuário. Consegui resolver através da documentação do JavaScript.
